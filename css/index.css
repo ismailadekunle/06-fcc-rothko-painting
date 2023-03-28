@@ -4,7 +4,7 @@ This imports the `reset.css` file */
 
 /* For testing purposes, delete this code */
 .canvas {
-  width: 500px;
+  width: 600px;
   height: 600px;
   background-color: #4d0f00;
   overflow: hidden;
@@ -13,7 +13,7 @@ This imports the `reset.css` file */
 
 .frame {
   border: 50px solid black;
-  width: 500px;
+  width: 600px;
   padding: 50px;
   margin: 20px auto;
 }
